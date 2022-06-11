@@ -1,2 +1,2 @@
 # Gudang Arisan Security
-Repositori untuk menyimpan sumberdaya terpilih dari A-SEC.
+Repositori untuk menyimpan sumberdaya terpilih oleh A-SEC.
