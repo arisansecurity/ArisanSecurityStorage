@@ -1,2 +1,2 @@
-# ArisanSecurityStorage
-Repositori untuk penyimpanan media Blog Arisan Security.
+# Gudang Arisan Security
+Repositori untuk menyimpan sumberdaya terpilih dari A-SEC.
